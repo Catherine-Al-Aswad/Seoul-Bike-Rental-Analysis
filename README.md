@@ -1,5 +1,5 @@
 # Seoul-Bike-Rental-Analysis
-Machine learning assignment, to build a model that predicts the trend of bikes rented in Seoul.
+Machine learning assignment, to build a model that predicts the trend of bikes rented in Seoul. The assignment went for 2 iterations, where I was expected to improve the model after addtional machine learning methodologoes were taught in the course/
 
 Creator: Catherine Al Aswad
 
